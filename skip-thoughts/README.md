@@ -1,10 +1,5 @@
 This folder contains an approach to sense disambiguation task based on the following work: 
-@article{kiros2015skip,
-  title={Skip-Thought Vectors},
-  author={Kiros, Ryan and Zhu, Yukun and Salakhutdinov, Ruslan and Zemel, Richard S and Torralba, Antonio and Urtasun, Raquel and Fidler, Sanja},
-  journal={arXiv preprint arXiv:1506.06726},
-  year={2015}
-}
+Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler. "Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books."
 
 Files in this folder, except for main.py and test.py, are based on this repository: https://github.com/ryankiros/skip-thoughts, 
 however we made some changes, such as adopting the code to Python 3.
