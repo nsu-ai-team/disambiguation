@@ -1,5 +1,5 @@
 """
-This file is based on https://github.com/ryankiros/skip-thoughts/blob/master/training/homogeneous_data.py
+This file is based on https://github.com/ryankiros/skip-thoughts/blob/master/training/layers.py
 I made some minor changes including adopting the code to Python 3.
 
 Model specification
