@@ -2,12 +2,12 @@ This folder contains an approach to sense disambiguation task based on the follo
 Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, and Sanja Fidler. "Skip-Thought Vectors."
 
 Files in this folder, except for main.py and test.py, are based on this repository: https://github.com/ryankiros/skip-thoughts, 
-however we made some changes, such as adopting the code to Python 3.
+however we made some changes, such as adopting the code to Python 3. 
 
 Run main.py to use this code. You may use command line arguments to specify how the program should work. 
 Run main.py -h or main.py --help to learn how to use them. 
 
-The file test.py contains unit tests.
+The file test.py contains unit tests. You need a word2vec file 'word2vec.w2v' in the same directory to run the tests.
 
 This program was developed by Vadim Fomin as a part of a group working on Dialogue Evaluation 2018 at the Novosibirsk University.
 Feel free to contact me on wadimiusz@gmail.com.
