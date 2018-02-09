@@ -4,8 +4,20 @@ Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba,
 Files in this folder, except for main.py and test.py, are based on this repository: https://github.com/ryankiros/skip-thoughts, 
 however we made some changes, such as adopting the code to Python 3. 
 
-Run main.py to use this code. You may use command line arguments to specify how the program should work. 
-Run main.py -h or main.py --help to learn how to use them. 
+Run 
+
+    python3 main.py
+
+to use this code. You may use command line arguments to specify how the program should work. 
+Run 
+
+    python3 main.py -h
+
+or
+
+    python3 main.py --help
+
+to learn how to use them. 
 
 The file test.py contains unit tests. You need a word2vec file 'word2vec.w2v' in the same directory to run the tests.
 
